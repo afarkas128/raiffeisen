@@ -1,0 +1,4 @@
+MEGTANULNI FLOAT LEFT / RIGHT
+
+raiffeisen logo a ba legyen nem background image
+center footer flex nelkul
